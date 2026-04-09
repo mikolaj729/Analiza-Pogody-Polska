@@ -3,7 +3,7 @@ Zadanie projektowa
 Analiza Korelacji Parametrów Pogodowych w Polsce (Etap 2)
 
 # Cel projektu
-Celem aplikacji jest automatyczne pobieranie aktualnych danych meteorologicznych dla 50 największych miast w Polsce oraz analiza statystyczna zależności między różnymi parametrami pogodowymi.
+Celem aplikacji jest automatyczne pobieranie aktualnych danych meteorologicznych dla 50 dużych miast w Polsce oraz analiza statystyczna zależności między różnymi parametrami pogodowymi.
 
 # Struktura repozytorium
 * **main.py** – Skrypt odpowiedzialny za komunikację z OpenWeather API, pobieranie danych i ich serializację do pliku CSV.
