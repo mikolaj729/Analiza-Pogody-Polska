@@ -13,7 +13,7 @@ Celem aplikacji jest automatyczne pobieranie aktualnych danych meteorologicznych
   * `AnalizaZdjęcie.png` – Wykres heatmapy przedstawiający korelacje.
 
 # Instrukcja uruchomienia
-1. Pobierz repozytorium na dysk.
+1. Pobierz repozytorium na dysk (Projekt Python).
 2. Zainstaluj wymagane biblioteki:
    ```bash
    pip install pandas seaborn matplotlib requests
